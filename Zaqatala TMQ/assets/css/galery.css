@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+.bilgi{
+    display: flex;
+    background-color: rgb(242, 246, 246);
+    height: 200px;
+    /* border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 150px; */
+    justify-content: center;
+    align-items: center;
+}
+
+.res{
+    border-radius: 25px;
+    border: 2px solid #4f4fefdc;
+    padding: 20px;
+    width: 180px;
+    height: 150px; 
+}
+.im{
+    justify-content: center;
+    align-items: center;
+}
+
+.abi{
+    align-items: center;
+}
